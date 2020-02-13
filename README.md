@@ -1,2 +1,2 @@
-# k8s-for-devs
-Kubernetes para Desarrolladores 
+# Bitnami Bootcamp 
+`Development in Kubernetes` material for the Bitnami Containers Bootcamp.
