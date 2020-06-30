@@ -1,0 +1,4 @@
+name: python
+image: okteto/desk:latest
+command:
+- bash

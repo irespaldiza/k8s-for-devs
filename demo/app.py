@@ -11,8 +11,8 @@ votes = collections.defaultdict(int)
 app = Flask(__name__)
 
 def getOptions():
-    option_a = 'Cats'
-    option_b = 'Dogs'
+    option_a = 'Gatetes'
+    option_b = 'Perretes'
     return option_a, option_b
 
 @app.route("/", methods=['POST','GET'])
